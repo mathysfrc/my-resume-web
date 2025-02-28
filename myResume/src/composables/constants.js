@@ -5,6 +5,7 @@
 export function useConstants() {
     /** @const **/
 
+
     const BASE_PATH = import.meta.env.BASE_URL
     /** @const **/
     const BOOTSTRAP_BREAKPOINTS = {
