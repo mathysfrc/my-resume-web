@@ -193,7 +193,7 @@
                 "id": "ui_nanodegree",
                 "place": "@link{places.udacity}",
                 "date": "2019/04",
-                "href": "https://udemy.com",
+                "href": "",
                 "locales": {
                     "en": {
                         "title": "UI/UX Nanodegree",
@@ -221,7 +221,7 @@
                 "id": "material_cert",
                 "place": "@link{places.google}",
                 "date": "2020/06",
-                "href": "https://google.com",
+                "href": "",
                 "locales": {
                     "en": {
                         "title": "Material Design Certification",

@@ -132,6 +132,7 @@ defineExpose({
 .image-view-img {
     height: 100%;
     vertical-align: top;
+    width: 100%;
 }
 
 .spinner {

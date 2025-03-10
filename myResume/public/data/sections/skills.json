@@ -314,18 +314,6 @@
             },
 
             {
-                "imageIconUrl": "images/flags/vn.png",
-                "faIcon": null,
-                "value": 40,
-                "locales": {
-                    "en": {"title": "Vietnamese", "description": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text."},
-                    "es": {"title": "Vietnamita", "description": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y comprender texto escrito."},
-                    "fr": {"title": "Vietnamien", "description": "Compétence intermédiaire en vietnamien ; peut tenir des conversations et comprendre un texte écrit."},
-                    "zh": {"title": "越南语", "description": "具有中等水平的越南语能力；能进行对话并理解书面文字。"}
-                }
-            },
-
-            {
                 "imageIconUrl": "images/flags/pt.png",
                 "faIcon": null,
                 "value": 10,

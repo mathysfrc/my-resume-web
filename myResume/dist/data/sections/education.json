@@ -24,8 +24,8 @@
     "items": [
         {
             "id": "online_course_udacity",
-            "place": "@link{places.udacity}",
-            "period": ["2014/01", "2014/07"],
+            "place": "",
+            "period": ["2023/02", "2023/09"],
 
             "locales": {
                 "en": {
@@ -39,7 +39,7 @@
                 },
 
                 "fr": {
-                    "title": "Certification en Fondamentaux de l'UX en Ligne",
+                    "title": "Titre DWWM - Développpeur Web et Web Mobile",
                     "description": "Inscrit à un programme en ligne couvrant les concepts essentiels de l'UX, y compris la recherche utilisateur, les tests de convivialité et l'architecture de l'information. Renforcé les compétences dans la création d'expériences numériques intuitives et conviviales."
                 },
 
@@ -52,8 +52,8 @@
 
         {
             "id": "bachelor_harvard",
-            "place": "@link{places.harvard}",
-            "period": ["2014/08", "2018/05"],
+            "place": "",
+            "period": ["2023/09", "2024/09"],
 
             "locales": {
                 "en": {
@@ -67,8 +67,8 @@
                 },
 
                 "fr": {
-                    "title": "Baccalauréat en Design Graphique avec Accent sur l'UX",
-                    "description": "Diplômé avec une base solide en design graphique tout en se spécialisant dans la conception de l'expérience utilisateur. Acquis une expertise en narration visuelle, en design d'interface utilisateur et en réflexion collaborative sur la conception."
+                    "title": "Titre CDA - Concepteur Développeur d'Application",
+                    "description": "Diplômé avec une base solide en gn d'interface utilisateur..."
                 },
 
                 "zh": {
@@ -80,8 +80,8 @@
 
         {
             "id": "masters_paris",
-            "place": "@link{places.paris}",
-            "period": ["2018/09", "2020/05"],
+            "place": "",
+            "period": ["2024/09", "2026/06"],
 
             "locales": {
                 "en": {
@@ -95,8 +95,8 @@
                 },
 
                 "fr": {
-                    "title": "Master en Interaction Humain-Ordinateur",
-                    "description": "A achevé un programme intensif axé sur les principes de conception centrés sur l'utilisateur, les tests de convivialité et la conception d'interaction. Développé des compétences en wireframing, en prototypage et en méthodologies de recherche utilisateur."
+                    "title": "Master Architecture des Systèmes Informatiques",
+                    "description": "A achevé un programme intensif axé sur les principes de l'architecture informatique avec comme matière principale le Réseau et la conception détaillé et structuré de projets concrets nécessaires aux entreprises."
                 },
 
                 "zh": {

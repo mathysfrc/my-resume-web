@@ -45,7 +45,7 @@
         "locales": {
             "en": {"name": "Harvard University"},
             "es": {"name": "Universidad de Harvard"},
-            "fr": {"name": "Université Harvard"},
+            "fr": {"name": "WildCodeShool - Remote | ISF Imprimerie - Blois"},
             "zh": {"name": "哈佛大学"}
         }
     },
@@ -56,7 +56,7 @@
         "locales": {
             "en": {"name": "University of Paris"},
             "es": {"name": "Universidad de París"},
-            "fr": {"name": "Université de Paris"},
+            "fr": {"name": "Haute Ecole de la Province de Liège"},
             "zh": {"name": "巴黎大学"}
         }
     },
@@ -65,7 +65,7 @@
         "logoUrl": "images/places/logo-udacity.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Udacity"}
+            "en": {"name": "WildCodeSchool - Orléans"}
         }
     },
 
