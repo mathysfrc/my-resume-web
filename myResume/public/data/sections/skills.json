@@ -307,7 +307,6 @@
                 "faIcon": null,
                 "value": 90,
                 "locales": {
-                    "en": {"title": "Spanish", "description": "Fluent in both spoken and written Spanish; confident in professional communication."},
                     "es": {"title": "Español", "description": "Fluido en español hablado y escrito; seguro en la comunicación profesional."},
                     "fr": {"title": "Espagnol", "description": "Courant à la fois à l'oral et à l'écrit en espagnol ; confiant dans la communication professionnelle."},
                     "zh": {"title": "西班牙语", "description": "流利的西班牙语口语和书写能力；自信地进行专业沟通。"}

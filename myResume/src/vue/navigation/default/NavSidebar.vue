@@ -77,11 +77,14 @@ const _onLinkClicked = (section) => {
     display: flex;
     flex-direction: column;
 
-    height: 100vh;
+    height: 95vh;
     width: $nav-sidebar-column-size;
-    overflow: auto;
+    overflow: none;
 
     background-color: $nav-background-color;
+    margin-top: 1.70%;
+    border-radius: 50px;
+    margin-left: 1rem !important;
 }
 
 .nav-sidebar-content {

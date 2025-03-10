@@ -1,5 +1,5 @@
 /**
- * Created by Ryan Balieiro on 08.23.2023
+ * Created by Mathys FRANCO on 08.23.2023
  * This composable will fetch and manage the application data.
  */
 import {reactive} from "vue"

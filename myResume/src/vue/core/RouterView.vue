@@ -91,7 +91,6 @@ onMounted(() => {
  */
 onUnmounted(() => {
     window.removeEventListener('resize', _onWindowChangeEvent)
-    window.removeEventListener('scroll', _onWindowChangeEvent)
 })
 
 /**
@@ -156,7 +155,7 @@ const _navigateToCategory = (categoryId) => {
     width: $nav-sidebar-column-size;
     min-height: 100vh;
 
-    background-color: $dark;
+    background-color: #F0F3F6;
     @include media-breakpoint-down($navigation-sidebar-breakpoint) {
         display: none;
     }

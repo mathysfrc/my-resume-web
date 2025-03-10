@@ -15,7 +15,7 @@
         "fr": {
             "welcome": "Bienvenue sur mon <span class='text-primary'>CV</span>!",
             "welcomeShort": "Bienvenue!",
-            "bio": "Avec 8 ans en tant que designer UX, j'excele dans les interfaces centrées sur l'utilisateur. Ma passion pour le design empathique me pousse à créer des expériences numériques délicieuses et innovantes. Collaborons ensemble pour créer quelque chose d'extraordinaire."
+            "bio": "Passionné par l'informatique, j'ai développé une expertise en développement web, aussi bien en backend qu'en frontend, au cours de ma licence. Aujourd'hui, j'évolue via mon master vers des domaines plus avancés tels que les réseaux, la cybersécurité, le machine learning et le DevOps."
         },
 
         "zh": {
@@ -27,8 +27,6 @@
 
     "items": {
         "socialCircles": [
-            "@link{profile.contact.instagram}",
-            "@link{profile.contact.facebook}",
             "@link{profile.contact.linkedin}",
             "@link{profile.contact.github}"
         ],

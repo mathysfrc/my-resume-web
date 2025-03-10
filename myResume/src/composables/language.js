@@ -1,5 +1,5 @@
 /**
- * Created by Ryan Balieiro on 08.23.2023
+ * Created by Mathys FRANCO on 08.23.2023
  * This component will be responsible for overseeing and controlling the application's language.
  */
 import {reactive} from "vue"
