@@ -229,7 +229,6 @@ textarea {
     border-right: 2px solid $form-input-border-color;
     min-width: 60px;
     background-color: $form-input-group-background-color;
-
     border-radius: 0;
     text-align: center;
 
