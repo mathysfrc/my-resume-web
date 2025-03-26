@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/src/vue/sections/_templates/SubHeading.vue" }
+    { "source": "/(.*)", "destination": "/src/vue/core/App.vue" }
   ]
 }
