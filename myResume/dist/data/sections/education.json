@@ -24,7 +24,7 @@
     "items": [
         {
             "id": "online_course_udacity",
-            "place": "",
+            "place": "@link{places.udacity}",
             "period": ["2023/02", "2023/09"],
 
             "locales": {
@@ -52,7 +52,7 @@
 
         {
             "id": "bachelor_harvard",
-            "place": "",
+            "place": "@link{places.harvard}",
             "period": ["2023/09", "2024/09"],
 
             "locales": {
@@ -80,7 +80,7 @@
 
         {
             "id": "masters_paris",
-            "place": "",
+            "place": "@link{places.paris}",
             "period": ["2024/09", "2026/06"],
 
             "locales": {

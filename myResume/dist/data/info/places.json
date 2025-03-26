@@ -1,6 +1,6 @@
 {
     "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
+        "logoUrl": "",
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "Adobe Inc."}
@@ -8,7 +8,7 @@
     },
 
     "apple": {
-        "logoUrl": "images/places/logo-apple.png",
+        "logoUrl": "",
         "faIcon": "fab fa-apple",
         "locales": {
             "en": {"name": "Apple Inc."}
@@ -16,7 +16,7 @@
     },
 
     "coursera": {
-        "logoUrl": "images/places/logo-coursera.png",
+        "logoUrl": "",
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "Coursera"}
@@ -40,7 +40,7 @@
     },
 
     "harvard": {
-        "logoUrl": "images/places/logo-harvard.png",
+        "logoUrl": "images/places/wsc.png",
         "faIcon": "fas fa-university",
         "locales": {
             "en": {"name": "Harvard University"},
@@ -51,7 +51,7 @@
     },
 
     "paris": {
-        "logoUrl": "images/places/logo-paris-university.png",
+        "logoUrl": "images/places/hepl.png",
         "faIcon": "fas fa-university",
         "locales": {
             "en": {"name": "University of Paris"},
@@ -62,7 +62,7 @@
     },
 
     "udacity": {
-        "logoUrl": "images/places/logo-udacity.png",
+        "logoUrl": "images/places/wsc.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "en": {"name": "WildCodeSchool - Orléans"}
@@ -70,7 +70,7 @@
     },
 
     "uxStudio": {
-        "logoUrl": "images/places/logo-ux-studio.png",
+        "logoUrl": "",
         "faIcon": "fas fa-paint-brush",
         "locales": {
             "en": {"name": "UX Masters Studio"}
