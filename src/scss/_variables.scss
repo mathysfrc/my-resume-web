@@ -1,0 +1,57 @@
+/** Font Awesome webfonts path **/
+$fa-font-path:"@fortawesome/fontawesome-free/webfonts";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/** Overriding Bootstrap's contrast ratio. **/
+$min-contrast-ratio: 2.5 !default;
+
+/** Typography **/
+$font-family-base: 'Montserrat Alternates', sans-serif;
+$headings-font-family: 'Poppins', sans-serif;
+$custom-subheadings-font-family: 'Poppins', sans-serif;
+
+/** Layout Options **/
+$max-content-width: 2048px;
+$navigation-sidebar-breakpoint: "lg";
+$nav-sidebar-column-size: 290px;
+$nav-tabs-height: 60px;
+
+/** Main Colors **/
+$primary: #ff9200;
+$dark: #212529;
+$light: #fcfcfc;
+$white: white;
+
+/** Layout Colors **/
+$background-color: #f0f3f6;
+
+/** Navigation Colors **/
+$nav-background-color: $dark;
+$nav-item-lighten-color: lighten($primary, 30%);
+$nav-item-lighten-strong-color: lighten($primary, 40%);
+$nav-item-grayed-out-color: #6C757D;
+
+/** Text Colors **/
+$headings-color: $dark;
+$text-normal: black;
+$text-normal-contrast: white;
+$text-muted: #757575;
+
+/** Light Shades **/
+$light-1: #f8f9fa;
+$light-2: #e9ecef;
+$light-3: #dee2e6;
+$light-4: #ced4da;
+$light-5: #adb5bd;
+$light-6: #6c757d;
+$light-7: #495057;
+
+$light-shades-palette: (
+    $light-1,
+    $light-2,
+    $light-3,
+    $light-4,
+    $light-5,
+    $light-6,
+    $light-7,
+);

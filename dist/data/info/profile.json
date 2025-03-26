@@ -1,0 +1,66 @@
+{
+    "name": "Mathys FRANCO",
+    "profilePictureUrl": "images/pictures/avatar.png",
+
+    "locales": {
+
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Liège 4000, Belgium",
+            "valueShort": "Liège 4000, Belgium",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "mathysf41@gmail.com",
+            "valueShort": "mathysf41@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:mathysf41@gmail.com"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Mathys FRANCO",
+            "valueShort": "M. FRANCO",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@mathysfrc",
+            "valueShort": "@mathysfrc",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com"
+        },
+
+        "instagram": {
+            "id": "instagram",
+            "value": "@mathysfrc",
+            "valueShort": "@jonas.einstein.official",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@mathysfrc",
+            "valueShort": "@mathysfrc",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+33 6 48 95 31 61",
+            "valueShort": "+33 6 48 95 31 61",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:+33648953161"
+        }
+    }
+}
