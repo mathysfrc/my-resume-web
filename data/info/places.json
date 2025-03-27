@@ -1,0 +1,79 @@
+{
+    "adobe": {
+        "logoUrl": "",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Adobe Inc."}
+        }
+    },
+
+    "apple": {
+        "logoUrl": "",
+        "faIcon": "fab fa-apple",
+        "locales": {
+            "en": {"name": "Apple Inc."}
+        }
+    },
+
+    "coursera": {
+        "logoUrl": "",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Coursera"}
+        }
+    },
+
+    "forbes": {
+        "logoUrl": null,
+        "faIcon": "fa-solid fa-newspaper",
+        "locales": {
+            "en": {"name": "Forbes"}
+        }
+    },
+
+    "google": {
+        "logoUrl": null,
+        "faIcon": "fab fa-google",
+        "locales": {
+            "en": {"name": "Google"}
+        }
+    },
+
+    "harvard": {
+        "logoUrl": "images/places/wsc.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Harvard University"},
+            "es": {"name": "Universidad de Harvard"},
+            "fr": {"name": "WildCodeShool - Remote | ISF Imprimerie - Blois"},
+            "zh": {"name": "哈佛大学"}
+        }
+    },
+
+    "paris": {
+        "logoUrl": "images/places/hepl.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "University of Paris"},
+            "es": {"name": "Universidad de París"},
+            "fr": {"name": "Haute Ecole de la Province de Liège"},
+            "zh": {"name": "巴黎大学"}
+        }
+    },
+
+    "udacity": {
+        "logoUrl": "images/places/wsc.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "WildCodeSchool - Orléans"}
+        }
+    },
+
+    "uxStudio": {
+        "logoUrl": "",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "UX Masters Studio"}
+        }
+    }
+}
