@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/my-resume-web/(.*)", "destination": "/dist/$1" }
-  ],
-  "cleanUrls": true
-}
